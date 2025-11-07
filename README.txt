@@ -1,8 +1,8 @@
-# 📊 YouTube Video Performance Analyzer
+📊 YouTube Video Performance Analyzer
 
 This project is a data analytics dashboard that evaluates YouTube video performance using key metrics like views, watch time, click-through rate (CTR), and audience retention. It helps creators understand what drives engagement and optimize future content.
 
-## 🚀 Features
+🚀 Features
 
 - 📈 Analyze channel-wide performance trends
 - 🎯 Identify top-performing videos by views, CTR, and retention
@@ -10,16 +10,18 @@ This project is a data analytics dashboard that evaluates YouTube video performa
 - 📊 Visualize performance over time with interactive charts
 - 🧪 A/B testing insights using metadata and thumbnails
 
-## 📁 Data Sources
+📁 Data Sources
 
 - YouTube Analytics API (or exported CSVs from YouTube Studio)
-## 🛠️ Tech Stack
+
+🛠️ Tech Stack
 
 - Python
 - pandas, matplotlib, seaborn, plotly
 - Streamlit for dashboard
 
-## 📦 Installation
+📦 Installation
 
 ```bash
+
 pip install streamlit pandas matplotlib seaborn plotly
